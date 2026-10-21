@@ -8,3 +8,5 @@ You can also install it with the help of [https://github.com/MCPHackers/RetroMCP
 Errata: Currently there's no attack sound.
 
 Slimes may still target dying villagers (untested).
+
+Repo link: https://github.com/Reden777/slimes-attack-villagers
